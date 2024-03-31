@@ -2,7 +2,7 @@ import fs from "fs";
 import util from "util";
 
 const uploadTelegraph = async(client, m, qmsg, mime, UploadFileUgu, TelegraPh) => {
-if (!qmsg) return m.reply("quote an image");
+if (!qmsg) return m.reply("𓅓quote an image𓅓");
 
                 let fta2 = await client.downloadAndSaveMediaMessage(qmsg)
                 if (/image/.test(mime)) {
