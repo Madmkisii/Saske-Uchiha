@@ -56,7 +56,7 @@ function _0x447b() {
         'atally\x20wro',
         'mt.me/gpt4',
         'in\x20your\x20qu',
-        'or\x20Dreaded',
+        'or\x20𓅓owl',
         'vadTz',
         '2vUARZF',
         'Error:',

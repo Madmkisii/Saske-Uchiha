@@ -3,7 +3,7 @@ import { G4F } from "g4f";
 
 const gptA = async(client, m, text) => {
 
-if (!text) return m.reply("Provide text...");
+if (!text) return m.reply("𓅓Provide text...");
 
 
 
