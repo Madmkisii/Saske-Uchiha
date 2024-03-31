@@ -19,7 +19,7 @@ await fetch(`https://aemt.me/converter/zombie?url=${fta}`)
     res = data.url;
 })
 
-await client.sendMessage(m.chat, { image: { url: res}, caption: "Converted by Dreaded! 🦄"}, { quoted: m});
+await client.sendMessage(m.chat, { image: { url: res}, caption: "Converted by Owl 𓅓"}, { quoted: m});
 
 }
 

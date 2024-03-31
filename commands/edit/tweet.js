@@ -14,7 +14,7 @@ const imageurl = `https://some-random-api.com/canvas/misc/tweet?displayname=${en
 
 
 
-await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `Converted by Dreaded! 🦄`}, { quoted: m}) 
+await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `Converted by Owl 𓅓`}, { quoted: m}) 
 
 }
 
