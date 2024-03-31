@@ -16,7 +16,7 @@ for (const participan of responseList) {
     );
     console.log(response);
 }
-m.reply("all pending participants have been approved to join.");
+m.reply("all pending participants have been approved 𓅓.");
 
 }
 

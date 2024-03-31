@@ -6,9 +6,7 @@ const promoteGC = async (client, m, group, botAdmin, isBotAdmin, admin, isAdmin,
  if (!m.quoted) return m.reply(`Tag someone with the command!`); 
                  let users = m.mentionedJid[0] ? m.mentionedJid : m.quoted ? [m.quoted.sender] : [text.replace(/[^0-9]/g, '')+'@s.whatsapp.net']; 
   
-const parts = users.split('@')[0];
-
                  await client.groupParticipantsUpdate(m.chat, users, 'promote'); 
- m.reply(`${parts} is now admin! 👑`); 
+ m.reply('Successfully promoted! 👑'); 
          } 
 export default promoteGC
