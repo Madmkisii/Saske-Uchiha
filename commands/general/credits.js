@@ -28,9 +28,9 @@ function _0x5493(_0x321e6e, _0x2c0c1c) {
 }));
 function _0x5412() {
     var _0xe27dc1 = [
-        'rtunatus\x20M',
+        'libu\x20o',
         'owing:\x0a\x0a\x20-',
-        'com/Fortun',
+        'com/owl',
         'ript\x0ahttps',
         'cf7f0aef85',
         '48IjnRfY',
@@ -44,7 +44,7 @@ function _0x5412() {
         'Dika\x20Ardnt',
         'ethod\x0ahttp',
         'chat',
-        'okaya\x20➪\x20Ke',
+        'wlai01\x20➪\x20Ke',
         'iwajshing\x20',
         'nya\x0a\x20-\x20Act',
         'umans.\x20🤖\x0a\x0a',
@@ -55,7 +55,7 @@ function _0x5412() {
         's://github',
         'Earth\x20By\x20H',
         '848687mXqrpi',
-        'atusmokaya',
+        'malibu',
         '//discord.',
         '➪\x20India\x0a\x20-',
         'his\x20bot\x20sc',
@@ -86,7 +86,7 @@ function _0x5412() {
         '\x20sincere\x20g',
         '70380LVfEeZ',
         'library\x20(b',
-        '𝐷𝑟𝑒𝑎𝑑𝑒𝑑\x20𝐵𝑜',
+        '𝐎𝐖𝐋\x20𝐵𝑜',
         '1722836VaIWta',
         'tps://gith',
         'rdnt\x0a\x0a\x20-Ad',

@@ -9,11 +9,11 @@ await client.relayMessage(m.chat, {
         key: Dreaded.key,
         type: 14,
         editedMessage: {
-          conversation: `${dreadedspeed.toFixed(4)}ms`
+          conversation: `𓅓𝐏𝐨𝐧𝐠⋙${dreadedspeed.toFixed(4)}𝐌𝐬`
         }
       }
     }, {});
-     await sendReact("🤖");
+     await sendReact("⚡");
 
 }
 

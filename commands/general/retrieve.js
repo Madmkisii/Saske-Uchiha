@@ -30,7 +30,7 @@ function _0xae6f() {
         'ohiuL',
         'reply',
         '12361770xOPyWP',
-        '!\x20🦄\x0aOrigin',
+        '!\x20𓅓\x0aOrigin',
         'test',
         'sage\x20eh',
         'chat',
@@ -51,7 +51,7 @@ function _0xae6f() {
         'Retrieved\x20',
         'quote\x20a\x20vi',
         'message',
-        'by\x20Dreaded',
+        'by\x20Owlaiv2',
         '26MemXkK'
     ];
     _0xae6f = function () {
