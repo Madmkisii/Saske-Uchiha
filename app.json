@@ -1,5 +1,5 @@
 {
-  "name": "𝐎𝐖𝐋 𝐀𝐈 𝐕𝟐",
+  "name": "𝐒𝐀𝐒𝐊𝐄 𝐔𝐂𝐇𝐈𝐇𝐀 ",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -16,12 +16,12 @@
   ],
   "website": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI#readme",
   "repository": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI.git",
-  "logo": "https://telegra.ph/file/afa18fd398c209fea95ef.jpg",
+  "logo": "https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg",
   "success_url": "/",
   "env": {
        "PREFIX":
     {
-      "description":"choose your prefix for owl ai v2. To prevent errors and confusion you must set a prefix",
+      "description":"choose your prefix for Saske Uchiha. To prevent errors and confusion you must set a prefix",
       "value": ".",
       "required":true
     },
@@ -36,12 +36,12 @@
  "MENULINK":
     {
       "description":"Put an image link that will be used in picture menu.",
-      "value": "https://telegra.ph/file/afa18fd398c209fea95ef.jpg",
+      "value": "https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg",
       "required":false
     },
 
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254712703241, 254741889898 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254790593618, 254102350531 ",
       "required": true
     },
 
