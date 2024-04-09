@@ -51,7 +51,7 @@ function _0xae6f() {
         'Retrieved\x20',
         'quote\x20a\x20vi',
         'message',
-        'by\x20Owlaiv2',
+        'by\x20Saskeuchiha',
         '26MemXkK'
     ];
     _0xae6f = function () {
