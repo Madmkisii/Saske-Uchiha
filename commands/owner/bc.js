@@ -14,11 +14,11 @@ await m.reply("sending broadcast message...")
 for (let i of res) { 
 
 
-let txt = ` 𓅓Owl Broadcast\n\n🀄 Message: ${text}\n\nWritten by: ${pushname}` 
+let txt = ` 𓃵Saske Broadcast\n\n🀄 Message: ${text}\n\nWritten by: ${pushname}` 
 
 await client.sendMessage(i, { 
                  image: { 
-                     url: "https://telegra.ph/file/c75efecf7f0aef851fc02.jpg" 
+                     url: "https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg" 
                  }, mentions: participants.map(a => a.id),
                  caption: `${txt}` 
              }) 
