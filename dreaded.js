@@ -97,7 +97,7 @@ for (const categor of commandCategories) {
 const video = await fs.readFileSync('./menu.mp4');
 const pict = await fs.readFileSync('./dreaded.jpg');
 const mode = process.env.MODE || 'PUBLIC';
-const author = process.env.STICKER_AUTHOR || 'Owl';
+const author = process.env.STICKER_AUTHOR || 'Saske';
     const prefix = process.env.PREFIX || '.';
 const mycode = process.env.COUNTRY_CODE || '254';
     const cmd = commandNam.some(name => body.includes(name)) && body.startsWith(prefix);
@@ -107,12 +107,12 @@ const admin = process.env.ADMIN_MSG || 'Are you an admin?';
     const NotOwner = process.env.NOT_OWNER_MSG || 'Are you the owner?';
 const appname = process.env.APP_NAME;
 const herokuapi = process.env.HEROKU_API;
-    const packname = process.env.STICKER_PACKNAME || 'dreaded';
-const dev = process.env.DEV || '254712703241'
+    const packname = process.env.STICKER_PACKNAME || 'uchiha';
+const dev = process.env.DEV || '254790593618'
  const DevDreaded = dev.split(",");
     const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
    const bad = process.env.BAD_WORD || 'fuck';
-const botname = process.env.BOTNAME || "𝐎𝐖𝐋 𝐀𝐈 𝐕𝟐";
+const botname = process.env.BOTNAME || "𝐒𝐀𝐒𝐊𝐄 𝐔𝐂𝐇𝐈𝐇𝐀 ";
 
     const autorecordtypegc = process.env.RECORDING_TYPINGGC || 'TRUE';
     const autoreaddm = process.env.AUTOREAD || 'TRUE';
@@ -188,9 +188,9 @@ const audiovn = "./alive.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐞𝐥𝐥𝐨 𝐡𝐮𝐦𝐚𝐧 𝐚𝐦 𝐎𝐰𝐥 𝐚𝐢 𝐯𝟐 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐦𝐚𝐥𝐢𝐛𝐮",
-          body: "𝐎𝐖𝐋 𝐀𝐈 𝐕𝟐",
-          thumbnailUrl: "https://telegra.ph/file/afa18fd398c209fea95ef.jpg",
+          title: "𝐇𝐞𝐥𝐥𝐨 𝐡𝐮𝐦𝐚𝐧 𝐚𝐦 𝐬𝐚𝐬𝐤𝐞 𝐔𝐜𝐡𝐢𝐡𝐚  𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐤𝐢𝐦",
+          body: "𝐒𝐀𝐒𝐊𝐄 𝐔𝐂𝐇𝐈𝐇𝐀 ",
+          thumbnailUrl: "https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
@@ -229,7 +229,7 @@ function _0x5caf() {
         '584335pexGhZ',
         'cf7f0aef85',
         '1732146ZgkyoO',
-        'OWL\x20BO',
+        'SASKE\x20BO',
         'qhefp'
     ];
     _0x5caf = function () {
@@ -530,7 +530,7 @@ if (stdout) return reply(stdout)
     if (mek.key.id.startsWith("BAE5") && m.isGroup && !isAdmin && isBotAdmin && mek.key.id.length === 16 && antibot === 'TRUE') {  
 
  const kidts = m.sender;  
-  await client.sendMessage(m.chat, { text: `Owl AntiBot:\n@${kidts.split("@")[0]} is bot and has been removed to prevent spam!\nTo deactivate antibot set ANTIBOT variable to FALSE`, contextInfo:{mentionedJid:[kidts]}}, {quoted:m});  
+  await client.sendMessage(m.chat, { text: `Saske AntiBot:\n@${kidts.split("@")[0]} is bot and has been removed to prevent spam!\nTo deactivate antibot set ANTIBOT variable to FALSE`, contextInfo:{mentionedJid:[kidts]}}, {quoted:m});  
   await client.groupParticipantsUpdate(m.chat, [kidts], 'remove');  
 
   } 
@@ -648,7 +648,7 @@ return;
 
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ 𝐎𝐖𝐋 𝐀𝐈 𝐕𝟐 ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ 𝐒𝐀𝐒𝐊𝐄 𝐔𝐂𝐇𝐈𝐇𝐀  ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
