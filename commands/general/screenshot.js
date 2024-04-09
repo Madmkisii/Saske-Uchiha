@@ -12,7 +12,7 @@ let imageUrl = `https://aemt.me/sstab?url=${text}`
 await sendd("wait a moment")
 
 
-await client.sendMessage(m.chat, { image: { url: imageUrl}, caption: `! Screenshot by Dreaded! 🦄`}, { quoted: m}) 
+await client.sendMessage(m.chat, { image: { url: imageUrl}, caption: `! Screenshot by Saske𓃵𖤍🔥³`}, { quoted: m}) 
                
 
 
