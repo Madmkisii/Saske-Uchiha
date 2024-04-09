@@ -1,10 +1,10 @@
-# 𝐓𝐇𝐄𝐄 𝐎𝐖𝐋 𝐀𝐈 𝐕𝟐
+# 𝐒𝐀𝐒𝐊𝐄-𝐁𝐎𝐓
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1150&height=100&lines=UCHIHA+SASKE-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DAMON+KIMMY; RELEASED+BY+MOGIRE.2024" alt="Typing SVG" /></a>
+  </p>
 
-<div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/owlai01.png?lenght=50width=50)](https://github.com/owlai01)|
-|----|
 
+<img src="https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg" width="650" height="500"/>
 
 # DISCLAIMER
 
@@ -21,13 +21,13 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Fortunatusmokaya/dreaded-md/fork)
+- Fork this repo by tapping  [here](https://github.com/Madmkisii/Saske-Uchiha/fork)
 
 
 ## Pairing:
 
 
-- ***`Get your Session Id` by  [`PAIRING CODE`](https://dreaded-pair-862e5480d53e.herokuapp.com).***
+- ***`Get your Session Id` by  [`PAIRING CODE`](https://dreaded-pair.onrender.com).***
 
 - Then `Go-to WhatsApp > Three dots > Linked Devices`
    - You will get a session ID in your WhatsApp. Copy it.
@@ -37,7 +37,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
    - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-md).***
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Madmkisii/Saske-Uchiha).***
 
 -***`Fill in all the required variables and deploy the bot.`***
 
@@ -46,11 +46,10 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 Thanks to...
 
-<div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/owlai01.png?lenght=50width=50)](https://github.com/owlaiv2)|
-|----|
-* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***Author, Owner***
+<img src="https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg" width="650" height="500"/>
+
+* [`Saske Kim`](https://github.com/DamonKim) ***Author, Owner***
 
 * [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
 * [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
@@ -60,7 +59,7 @@ Thanks to...
 
 ---
 
-Incase of any issues, contact me  [here](https://wa.me/+254712703241) via WhatsApp or [here](kiddomalibu@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+25490593618) 
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
@@ -69,5 +68,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/blob/main/LICENSE)
 
-Copyright (c) 2024 OWL AI V2 
+Copyright (c) 2024 𝐒𝐀𝐒𝐊𝐄-𝐁𝐎𝐓
 
