@@ -9,7 +9,7 @@ if (!quoted) return m.reply('Tag a static video with the command!');
    fs.unlinkSync(media); 
    if (err) m.reply(err)
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `Converted by Owl 𓅓`}, { quoted: m}) 
+   client.sendMessage(m.chat, { image: buffer, caption: `Converted by Saske 𓃵`}, { quoted: m}) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
