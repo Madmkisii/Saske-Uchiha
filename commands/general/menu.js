@@ -1,7 +1,7 @@
 import fs from "fs";
 
 const menu = process.env.MENUTYPE || 'LINK';
-const menuimage = process.env.MENULINK || 'https://telegra.ph/file/d6dab955fbaa42fce2280.jpg';
+const menuimage = process.env.MENULINK || 'https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg';
 
 const getMenu = async (client, m, menureply, botname, mode, video, pict, pushname) => {
   try {
