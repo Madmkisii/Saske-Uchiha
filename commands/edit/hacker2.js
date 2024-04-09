@@ -16,7 +16,7 @@ let fdr = await client.downloadAndSaveMediaMessage(qmsg);
 
 const imagelink = `https://aemt.me/hacker2?link=${fta}`;
 
-await client.sendMessage(m.chat, { image: { url: imagelink}, caption: "Converted by Owl 𓅓"}, { quoted: m});
+await client.sendMessage(m.chat, { image: { url: imagelink}, caption: "Converted by Saske 𓃵"}, { quoted: m});
 
 }
 
