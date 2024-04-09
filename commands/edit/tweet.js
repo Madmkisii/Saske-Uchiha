@@ -5,7 +5,7 @@ if (!text) return m.reply("provide some text for the tweet");
 
 const displayname = pushname;
 const username = m.sender.split('@')[0];
-const avatar = await client.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/b34645ca1e3a34f1b3978.jpg');
+const avatar = await client.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg');
 const replies = "246";
 const retweets = "125";
 const theme = "light";
@@ -14,7 +14,7 @@ const imageurl = `https://some-random-api.com/canvas/misc/tweet?displayname=${en
 
 
 
-await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `Converted by Owl 𓅓`}, { quoted: m}) 
+await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `Converted by Saske 𓃵`}, { quoted: m}) 
 
 }
 
