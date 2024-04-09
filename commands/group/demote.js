@@ -6,7 +6,7 @@ if (!m.isGroup) return m.reply(group);
  if (!m.quoted) return m.reply(`Tag someone with the command!`); 
                  let users = m.mentionedJid[0] ? m.mentionedJid : m.quoted ? [m.quoted.sender] : [text.replace(/[^0-9]/g, '')+'@s.whatsapp.net']; 
 
-if (users == "254712703241@s.whatsapp.net") return m.reply("It's Owner Number! 𓅓");
+if (users == "254790593618@s.whatsapp.net") return m.reply("It's Owner Number! 𓃵");
   
                  await client.groupParticipantsUpdate(m.chat, users, 'demote'); 
  m.reply('Successfully demoted!'); 
