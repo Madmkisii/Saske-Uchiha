@@ -28,9 +28,9 @@ function _0x5493(_0x321e6e, _0x2c0c1c) {
 }));
 function _0x5412() {
     var _0xe27dc1 = [
-        'libu\x20o',
-        'owing:\x0a\x0a\x20-',
-        'com/owl',
+        'kim\x20o',
+        'initializig:\x0a\x0a\x20-',
+        'com/saske',
         'ript\x0ahttps',
         'cf7f0aef85',
         '48IjnRfY',
@@ -55,7 +55,7 @@ function _0x5412() {
         's://github',
         'Earth\x20By\x20H',
         '848687mXqrpi',
-        'malibu',
+        'kimmy',
         '//discord.',
         '➪\x20India\x0a\x20-',
         'his\x20bot\x20sc',
@@ -86,7 +86,7 @@ function _0x5412() {
         '\x20sincere\x20g',
         '70380LVfEeZ',
         'library\x20(b',
-        '𝐎𝐖𝐋\x20𝐵𝑜',
+        '𝐒𝐀𝐒𝐊𝐄\x20𝐵𝑜',
         '1722836VaIWta',
         'tps://gith',
         'rdnt\x0a\x0a\x20-Ad',
