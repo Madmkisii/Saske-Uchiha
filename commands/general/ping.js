@@ -9,7 +9,7 @@ await client.relayMessage(m.chat, {
         key: Dreaded.key,
         type: 14,
         editedMessage: {
-          conversation: `𓅓𝐏𝐨𝐧𝐠⋙${dreadedspeed.toFixed(4)}𝐌𝐬`
+          conversation: `𓃵𝐏𝐨𝐧𝐠⋙${dreadedspeed.toFixed(4)}𝐌𝐬`
         }
       }
     }, {});
