@@ -10,7 +10,7 @@ if (!text.includes('mediafire.com')) {
     }
 
 
-await m.reply(`𓅓Downloading☺️...`);
+await m.reply(`𓃵Downloading☺️...`);
 
 try {
       
