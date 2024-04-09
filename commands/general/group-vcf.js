@@ -16,7 +16,7 @@ for (let a of gcdata.participants) {
 
 let cont = './contacts.vcf'
 
-await m.reply('A moment, Owl is compiling '+gcdata.participants.length+' contacts into a vcf...');
+await m.reply('A moment, Saske is compiling '+gcdata.participants.length+' contacts into a vcf...');
 
 await fs.writeFileSync(cont, vcard.trim())
 
