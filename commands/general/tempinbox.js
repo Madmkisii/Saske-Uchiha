@@ -18,7 +18,7 @@ const data = await response.json();
 
             if (!data || !data.messages) {
 
-                return m.reply('Owl is unable to fetch messages from your mail, your inbox might be empty or some other error occurred.');
+                return m.reply('Saske is unable to fetch messages from your mail, your inbox might be empty or some other error occurred.');
             }
 
 const messages = data.messages;
