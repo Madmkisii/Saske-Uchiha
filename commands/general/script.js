@@ -31,7 +31,7 @@ function _0x2d30() {
         'To\x20deploy\x20',
         '8317480YUHvsJ',
         'svBIZ',
-        'com/owlai01',
+        'com/Madmkisii',
         '35\x0a\x0aMade\x20O',
         'this\x20bot,\x20',
         '1684664gaBbYc',
@@ -42,9 +42,9 @@ function _0x2d30() {
         'hxSiA',
         'ai01',
         'epository\x20',
-        '25471270',
+        '25490593618',
         'd\x0a\x0aRead\x20th',
-        '/owlai',
+        '/Saske-Uchiha',
         'ww.github.',
         'nk\x20below:\x0a',
         '1035678QdLdwt',
@@ -53,9 +53,9 @@ function _0x2d30() {
         '\x20Humans!\x20🤖',
         '28qzTBYC',
         '\x0ahttps://w',
-        '\x20Malibu,\x20+',
+        '\x20Damon,\x20+',
         '3935238xdVcyy',
-        'thee great',
+        'the thrill seeker',
         't\x20process.'
     ];
     _0x2d30 = function () {
