@@ -11,7 +11,7 @@ let acr = new acrcloud({
     access_secret: 'wXOZIqdMNZmaHJP1YDWVyeQLg579uK2CfY6hWMN8'
   });
 
-if (!/video|audio/.test(mime)) return m.reply("Tag a video or audio for owl𓅓 to analyse.");
+if (!/video|audio/.test(mime)) return m.reply("Tag a video or audio for Saske𓃵 to analyse.");
 
 let p = m.quoted ? m.quoted : m
 	
