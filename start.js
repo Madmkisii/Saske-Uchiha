@@ -1374,7 +1374,7 @@ function _0x258d(_0x4d2608, _0x586d8a) {
 }(_0x5aca, 0x5324 * -0x11 + -0x2205f + 0xc5a55), console[_0x5e6f45(0x142)](_0x5e6f45(0x149) + _0x5e6f45(0x14c) + _0x5e6f45(0x154) + _0x5e6f45(0x155) + _0x5e6f45(0x156) + client[_0x5e6f45(0x150)]['id'] + (_0x5e6f45(0x148) + _0x5e6f45(0x14e))));
 
 
-            let message = `𝐂𝐎𝐍𝐍𝐂𝐓𝐄𝐃⋙[𓅓𝐎𝐖𝐋𓅓]`;
+            let message = `𝐂𝐎𝐍𝐍𝐂𝐓𝐄𝐃⋙[ 𝐒𝐀𝐒𝐊𝐄 𝐔𝐂𝐇𝐈𝐇𝐀 ]`;
             await client.sendMessage(client.user.id, { text: message });
         }
     
