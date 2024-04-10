@@ -97,7 +97,7 @@ for (const categor of commandCategories) {
 const video = await fs.readFileSync('./menu.mp4');
 const pict = await fs.readFileSync('./dreaded.jpg');
 const mode = process.env.MODE || 'PUBLIC';
-const author = process.env.STICKER_AUTHOR || 'Saske';
+const author = process.env.STICKER_AUTHOR || '𝐔𝐂𝐇𝐈𝐇𝐀';
     const prefix = process.env.PREFIX || '.';
 const mycode = process.env.COUNTRY_CODE || '254';
     const cmd = commandNam.some(name => body.includes(name)) && body.startsWith(prefix);
@@ -107,7 +107,7 @@ const admin = process.env.ADMIN_MSG || 'Are you an admin?';
     const NotOwner = process.env.NOT_OWNER_MSG || 'Are you the owner?';
 const appname = process.env.APP_NAME;
 const herokuapi = process.env.HEROKU_API;
-    const packname = process.env.STICKER_PACKNAME || 'uchiha';
+    const packname = process.env.STICKER_PACKNAME || '𝐒𝐀𝐒𝐊𝐄';
 const dev = process.env.DEV || '254790593618'
  const DevDreaded = dev.split(",");
     const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
