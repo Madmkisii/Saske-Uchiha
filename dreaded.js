@@ -190,7 +190,7 @@ const audiovn = "./alive.mp3";
           externalAdReply: {
           title: "𝐇𝐞𝐥𝐥𝐨 𝐡𝐮𝐦𝐚𝐧 𝐚𝐦 𝐬𝐚𝐬𝐤𝐞 𝐔𝐜𝐡𝐢𝐡𝐚  𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐤𝐢𝐦",
           body: "𝐒𝐀𝐒𝐊𝐄 𝐔𝐂𝐇𝐈𝐇𝐀 ",
-          thumbnailUrl: "https://telegra.ph/file/844ad6c0c9db3b78e5901.jpg",
+          thumbnailUrl: "https://telegra.ph/file/26354a4c4c234ec049993.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
